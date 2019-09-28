@@ -1,0 +1,22 @@
+<resources>
+
+	<!-- Base application theme. -->
+	<style name="AppTheme" parent="android:Theme">
+		<item name="android:windowTitleSize">50px</item>
+		<item name="android:windowTitleBackgroundStyle">@style/WindowTitleBackground</item>
+
+		<!-- Customize your theme here. -->
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorAccent">@color/colorAccent</item>
+	</style>
+
+	<style name="WindowTitleBackground">
+		<item name="android:background">@android:color/transparent</item>
+	</style>
+
+	<style name="SIV_Theme" parent="android:Theme">
+		<item name="android:windowTitleSize">50px</item>
+		<item name="android:windowTitleBackgroundStyle">@style/WindowTitleBackground</item>
+	</style>
+</resources>
